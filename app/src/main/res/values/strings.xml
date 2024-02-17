@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quotes</string>
+
+    <string name="demo_quote">Your heart is the size of an ocean. Go find yourself in its hidden depths.</string>
+    <string name="demo_author">Bill Gates</string>
+
+    <string name="no_internet">Please connect to internet</string>
+</resources>
